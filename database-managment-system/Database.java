@@ -2,8 +2,8 @@ import java.sql.*;
 import java.util.Random;
 
 public class Database {
-	private final static String Username = "oxf612";
-	private final static String Password = "sfroinrr0c";
+	private final static String Username = "HIDDEN";
+	private final static String Password = "HIDDEN";
 	static String dbName = "jdbc:postgresql://mod-intro-databases.cs.bham.ac.uk/" + Username;
 
 	public Database() {
